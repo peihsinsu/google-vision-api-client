@@ -15,7 +15,7 @@ npm install google-vision-api-client
 ## Use
 
 ```
-var vision = require('./index');
+var vision = require('google-vision-api-client');
 var requtil = vision.requtil;
 
 //Prepare your service account from trust preview certificated project
