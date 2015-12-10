@@ -8,5 +8,8 @@
   },
   "github": "https://github.com/peihsinsu/google-vision-api-client",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "google-api-utility": "0.0.12"
+  }
 }
