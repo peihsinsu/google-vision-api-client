@@ -165,3 +165,15 @@ Execute for local resource
 ```
 $ node test /Users/peihsinsu/Pictures/Simon/simon01.jpg
 ```
+
+View the image that formated...
+
+```
+$ open /tmp/test.jpg
+```
+
+PS: The sample default output the file to /tmp/test.jpg
+
+## Notes
+
+* Install canvas: https://github.com/Automattic/node-canvas
