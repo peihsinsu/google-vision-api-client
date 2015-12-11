@@ -154,6 +154,8 @@ if(process.argv[2].indexOf('http') == 0) {
 }
 ```
 
+Save the code to test.js, then try to excute:
+
 Execute for web resource...
 
 ```
