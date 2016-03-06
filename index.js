@@ -3,7 +3,7 @@ var auth = require('google-api-utility')
   , util = require('util')
   , requtil = require('./requtil');
 
-var baseurl = 'https://vision.googleapis.com/v1alpha1/images:annotate';
+var baseurl = 'https://vision.googleapis.com/v1/images:annotate';
 
 /**
  * Initialize api with service account json file
