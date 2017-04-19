@@ -14,7 +14,7 @@ npm install google-vision-api-client
 
 ## Use
 
-```
+```js
 var vision = require('google-vision-api-client');
 var requtil = vision.requtil;
 
@@ -42,7 +42,7 @@ vision.query(d, function(e, r, d){
 
 Let's to try a sample to highlight the faces from the image you gived...
 
-```
+```js
 var vision = require('google-vision-api-client');
 var requtil = vision.requtil;
 var request = require('request');
